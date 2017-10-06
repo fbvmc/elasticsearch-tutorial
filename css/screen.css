@@ -1,0 +1,9 @@
+/* Block styles */
+
+header, section, footer{
+  margin: 48px 0;
+}
+
+.form-check-label {
+  width: 100%;
+}
