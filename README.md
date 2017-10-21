@@ -11,3 +11,5 @@ Simplemente ejecuta el siguiente comando desde la carpeta:
 Elasticsearch debe estar funcionando en la ruta localhost:9200.
 
 Finalmente, abre index.html en un navegador y todo debe funcionar correctamente.
+
+El ejemplo se puede ver en [http://data.cervantesvirtual.com](http://data.cervantesvirtual.com/autor/buscador.html)
